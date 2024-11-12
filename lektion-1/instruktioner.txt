@@ -1,0 +1,23 @@
+Gå igenom koden från föreläsningen. 
+
+Ni ska kunna skapa en enkel express-server från scratch på mindre än 5 min och kunna förklara koden. 
+
+Läs på om de olika koncepten vi har gått igenom och se till att du förstår dem. 
+
+Bygg din egen backendserver och bygg ut den med middlewares.
+
+Node: https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+
+NPM: https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager
+
+HTTP: https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/
+
+JSON: https://www.w3schools.com/js/js_json_intro.asp
+
+Express: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+Middleware: https://expressjs.com/en/guide/using-middleware.html
+
+Postman: https://learning.postman.com/docs/introduction/overview/
+
+Insomnia: https://docs.insomnia.rest/insomnia/get-started
