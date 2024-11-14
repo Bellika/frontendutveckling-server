@@ -1,0 +1,19 @@
+I denna lektion bygger vi vidare på koncepten från förra lektionen. 
+Vi gjorde en inloggningsapplikation där vi ger tillbaka olika html-filer
+beroende på ifall användaren anger rätt lösenord eller ej. 
+
+Vi har börjat kolla på vad ett API är och använt Postman / Insomnia för
+att göra olika typer av requests. Vi har även lärt oss om JSON och hur vi kan
+få ut den data vi är intresserade av från JSON-data. Här byggde vi en applikation
+som vi kan filtrera över JSON-data som finns i Lektion 2.1. 
+
+Gå igenom koden från dagens föreläsning och se till att du förstår den. 
+Se även till att du förstår alla de olika koncept vi behandlar, t.ex 
+json och api. Kolla filen med läsanvisningar. 
+
+Prova sedan bygga en egen enkel server och integrera data från ett API. 
+Tips på projekt är t.ex en applikation som visar väder på en specifik 
+geografisk punkt. Nästa vecka kommer vi kolla på hur man gör GET-requests
+från Node direkt mot ett API så tills vidare kan ni kalla på valfritt API
+via postman och kopiera in en del av datan i en JSON-fil som jag gjort i 
+lektion-2.1

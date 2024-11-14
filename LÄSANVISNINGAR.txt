@@ -1,0 +1,20 @@
+Node: https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+
+NPM: https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager
+
+HTTP: https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/
+
+JSON: https://www.w3schools.com/js/js_json_intro.asp
+
+Express: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+Middleware: https://expressjs.com/en/guide/using-middleware.html
+
+Postman: https://learning.postman.com/docs/introduction/overview/
+
+Insomnia: https://docs.insomnia.rest/insomnia/get-started
+
+API: https://www.postman.com/what-is-an-api/
+
+API: https://ubc-library-rc.github.io/intro-api/content/01_what-is-an-api.html
+
