@@ -1,0 +1,15 @@
+Denna vecka har vi kollat vidare på API. Vi har lärt oss om RESTful API
+och har byggt detta där vi promptar mot ett mock-api. Vi har även lärt oss
+hur vi ska läsa dokumentation från publika apier och hur vi kan autentifiera 
+oss med en api nyckel. 
+
+På torsdag kommer vi koppla på en databas som vi kommer skicka anrop till för
+att se, skapa eller förändra data. Se till att du har bra koll på de koncept vi
+har gått igenom hitils inför torsdag, framförallt hur server, client och api anrop 
+förhåller sig till varandra, vilka delar i koden som "pratar" med varrandra. 
+
+För att öva på detta så gör ett konto på api ninjas som i exemplet och försök 
+själv anropa data, bygg sedan ut ditt anrop med queries för att söka efter specifik data. 
+
+Vill man bygga något mer utmanande finns det mängder med bra apier. Både t.ex Spotify 
+och chatGPT har apier med bra dokumentation.

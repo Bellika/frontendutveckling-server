@@ -1,0 +1,503 @@
+[
+    {
+        "id": 1,
+        "name": "Charizard",
+        "types": [
+            "Poison",
+            "Psychic"
+        ],
+        "level": 18,
+        "abilities": [
+            "Levitate",
+            "Run Away"
+        ],
+        "stats": {
+            "hp": 140,
+            "attack": 181,
+            "defense": 199,
+            "special_attack": 106,
+            "special_defense": 122,
+            "speed": 121
+        },
+        "moves": [
+            "Thunderbolt",
+            "Hyper Beam",
+            "Hydro Pump",
+            "Flamethrower"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pikachu",
+        "types": [
+            "Fighting"
+        ],
+        "level": 9,
+        "abilities": [
+            "Torrent"
+        ],
+        "stats": {
+            "hp": 52,
+            "attack": 74,
+            "defense": 175,
+            "special_attack": 128,
+            "special_defense": 63,
+            "speed": 124
+        },
+        "moves": [
+            "Thunderbolt"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jigglypuff",
+        "types": [
+            "Fairy",
+            "Water"
+        ],
+        "level": 41,
+        "abilities": [
+            "Run Away",
+            "Synchronize"
+        ],
+        "stats": {
+            "hp": 194,
+            "attack": 127,
+            "defense": 67,
+            "special_attack": 99,
+            "special_defense": 73,
+            "speed": 120
+        },
+        "moves": [
+            "Psychic"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Charizard",
+        "types": [
+            "Fire",
+            "Psychic"
+        ],
+        "level": 71,
+        "abilities": [
+            "Torrent"
+        ],
+        "stats": {
+            "hp": 129,
+            "attack": 132,
+            "defense": 114,
+            "special_attack": 99,
+            "special_defense": 74,
+            "speed": 180
+        },
+        "moves": [
+            "Hyper Beam",
+            "Earthquake",
+            "Tackle"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Gengar",
+        "types": [
+            "Ghost"
+        ],
+        "level": 58,
+        "abilities": [
+            "Immunity",
+            "Overgrow"
+        ],
+        "stats": {
+            "hp": 149,
+            "attack": 95,
+            "defense": 113,
+            "special_attack": 149,
+            "special_defense": 79,
+            "speed": 94
+        },
+        "moves": [
+            "Thunderbolt",
+            "Shadow Ball",
+            "Hydro Pump",
+            "Tackle"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Gengar",
+        "types": [
+            "Bug",
+            "Fire"
+        ],
+        "level": 10,
+        "abilities": [
+            "Levitate",
+            "Torrent"
+        ],
+        "stats": {
+            "hp": 217,
+            "attack": 77,
+            "defense": 120,
+            "special_attack": 133,
+            "special_defense": 181,
+            "speed": 135
+        },
+        "moves": [
+            "Flamethrower",
+            "Earthquake"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Charmander",
+        "types": [
+            "Fighting",
+            "Electric"
+        ],
+        "level": 85,
+        "abilities": [
+            "Overgrow"
+        ],
+        "stats": {
+            "hp": 97,
+            "attack": 138,
+            "defense": 62,
+            "special_attack": 198,
+            "special_defense": 68,
+            "speed": 118
+        },
+        "moves": [
+            "Thunderbolt",
+            "Quick Attack",
+            "Flamethrower"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Charizard",
+        "types": [
+            "Poison"
+        ],
+        "level": 17,
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 112,
+            "attack": 55,
+            "defense": 73,
+            "special_attack": 53,
+            "special_defense": 89,
+            "speed": 198
+        },
+        "moves": [
+            "Psychic",
+            "Thunderbolt"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Charizard",
+        "types": [
+            "Fire",
+            "Poison"
+        ],
+        "level": 69,
+        "abilities": [
+            "Synchronize",
+            "Intimidate"
+        ],
+        "stats": {
+            "hp": 221,
+            "attack": 71,
+            "defense": 81,
+            "special_attack": 56,
+            "special_defense": 137,
+            "speed": 74
+        },
+        "moves": [
+            "Hyper Beam",
+            "Quick Attack",
+            "Flamethrower",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Snorlax",
+        "types": [
+            "Normal"
+        ],
+        "level": 45,
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 222,
+            "attack": 151,
+            "defense": 76,
+            "special_attack": 51,
+            "special_defense": 163,
+            "speed": 139
+        },
+        "moves": [
+            "Psychic",
+            "Hydro Pump",
+            "Vine Whip"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Snorlax",
+        "types": [
+            "Fairy",
+            "Normal"
+        ],
+        "level": 18,
+        "abilities": [
+            "Synchronize",
+            "Immunity"
+        ],
+        "stats": {
+            "hp": 245,
+            "attack": 83,
+            "defense": 92,
+            "special_attack": 44,
+            "special_defense": 172,
+            "speed": 52
+        },
+        "moves": [
+            "Shadow Ball",
+            "Tackle"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Pikachu",
+        "types": [
+            "Ghost",
+            "Fairy"
+        ],
+        "level": 76,
+        "abilities": [
+            "Immunity",
+            "Synchronize"
+        ],
+        "stats": {
+            "hp": 117,
+            "attack": 189,
+            "defense": 94,
+            "special_attack": 71,
+            "special_defense": 191,
+            "speed": 127
+        },
+        "moves": [
+            "Tackle",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Eevee",
+        "types": [
+            "Dragon",
+            "Fighting"
+        ],
+        "level": 93,
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 51,
+            "attack": 146,
+            "defense": 182,
+            "special_attack": 149,
+            "special_defense": 151,
+            "speed": 171
+        },
+        "moves": [
+            "Hydro Pump",
+            "Tackle"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Squirtle",
+        "types": [
+            "Poison",
+            "Psychic"
+        ],
+        "level": 13,
+        "abilities": [
+            "Immunity",
+            "Run Away"
+        ],
+        "stats": {
+            "hp": 52,
+            "attack": 51,
+            "defense": 153,
+            "special_attack": 149,
+            "special_defense": 193,
+            "speed": 88
+        },
+        "moves": [
+            "Quick Attack",
+            "Hyper Beam"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Squirtle",
+        "types": [
+            "Fairy"
+        ],
+        "level": 19,
+        "abilities": [
+            "Blaze",
+            "Synchronize"
+        ],
+        "stats": {
+            "hp": 244,
+            "attack": 187,
+            "defense": 186,
+            "special_attack": 199,
+            "special_defense": 71,
+            "speed": 125
+        },
+        "moves": [
+            "Hyper Beam",
+            "Quick Attack",
+            "Earthquake",
+            "Vine Whip"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Squirtle",
+        "types": [
+            "Ghost",
+            "Grass"
+        ],
+        "level": 72,
+        "abilities": [
+            "Levitate",
+            "Run Away"
+        ],
+        "stats": {
+            "hp": 155,
+            "attack": 65,
+            "defense": 100,
+            "special_attack": 115,
+            "special_defense": 54,
+            "speed": 49
+        },
+        "moves": [
+            "Hyper Beam",
+            "Psychic",
+            "Vine Whip",
+            "Earthquake"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Eevee",
+        "types": [
+            "Fighting"
+        ],
+        "level": 2,
+        "abilities": [
+            "Overgrow",
+            "Run Away"
+        ],
+        "stats": {
+            "hp": 107,
+            "attack": 112,
+            "defense": 166,
+            "special_attack": 112,
+            "special_defense": 134,
+            "speed": 62
+        },
+        "moves": [
+            "Vine Whip",
+            "Psychic",
+            "Flamethrower"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Charizard",
+        "types": [
+            "Psychic",
+            "Electric"
+        ],
+        "level": 6,
+        "abilities": [
+            "Torrent"
+        ],
+        "stats": {
+            "hp": 66,
+            "attack": 143,
+            "defense": 83,
+            "special_attack": 112,
+            "special_defense": 129,
+            "speed": 49
+        },
+        "moves": [
+            "Quick Attack",
+            "Tackle",
+            "Vine Whip",
+            "Hydro Pump"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Mewtwo",
+        "types": [
+            "Electric",
+            "Fairy"
+        ],
+        "level": 39,
+        "abilities": [
+            "Run Away",
+            "Synchronize"
+        ],
+        "stats": {
+            "hp": 97,
+            "attack": 150,
+            "defense": 44,
+            "special_attack": 122,
+            "special_defense": 47,
+            "speed": 176
+        },
+        "moves": [
+            "Hyper Beam",
+            "Earthquake"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Gengar",
+        "types": [
+            "Normal"
+        ],
+        "level": 75,
+        "abilities": [
+            "Synchronize",
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 193,
+            "attack": 115,
+            "defense": 200,
+            "special_attack": 134,
+            "special_defense": 83,
+            "speed": 198
+        },
+        "moves": [
+            "Thunderbolt",
+            "Shadow Ball",
+            "Hydro Pump"
+        ]
+    }
+]
