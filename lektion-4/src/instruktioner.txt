@@ -1,0 +1,27 @@
+Skapa server och koppla till DB: 
+
+1. npm init
+
+2. installera express (vid behov installera fler paket som nodemon, bodyparser eller cors)
+
+3. skapa en enkel server och se till att den kör
+
+4. skapa en mongodb, antingen på atlas i webbläsaren eller ladda ner och kör lokalt
+
+5. se till att du har en connection string (denna får du när du skapar databasen) som stämmer överrens med dina credentials
+
+6. skapa en funktion som upprättar en koppling med databasen
+
+7. importera i index och starta servern
+
+API: 
+
+1. skapa en model för ditt objekt i databasen 
+
+2. importera model i controller och skapa controllers för olika http metoder
+
+3. importera controller i routes och skapa en route/endpoint som kallar på din function
+
+4. importera din route i din server och kör servern 
+
+5. glöm inte att testa med postman / insomnia

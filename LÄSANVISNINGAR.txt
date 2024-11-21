@@ -18,3 +18,10 @@ API: https://www.postman.com/what-is-an-api/
 
 API: https://ubc-library-rc.github.io/intro-api/content/01_what-is-an-api.html
 
+REST:
+
+CRUD:
+
+MONGODB:
+
+SQL VS NOSQL:
