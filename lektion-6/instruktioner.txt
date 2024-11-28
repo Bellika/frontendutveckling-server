@@ -1,0 +1,9 @@
+Denna lektion har vi lärt oss grunderna kring autentiserning. Vi har 
+tittar på JWT och hur dessa fungerar samt byggt en enkel express app
+där vi kan skapa en user i DB och sedan logga in med denna användaren 
+för att få tillbaka ett token som vi sedan kan använda i våra requests. 
+
+Vi skapade även en protected route i våran app där vi använde oss
+av ett custom middleware för att kolla om användaren har ett giltligt 
+token.
+

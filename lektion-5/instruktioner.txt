@@ -1,0 +1,8 @@
+Denna lektion fortsatte vi med dabaser. Vi lärde oss om hur man kan köra mongodb
+lokalt via mongod istället för att använda ett atlascluster. Vi kollade på Compass 
+som är MongoDBs grafiska gränssnitt och hur vi kan använda våra connection strings
+för att se vår databas. 
+
+Vi lärde oss om SQL databaser och skapade ett enkelt table i PostgreSQL. Vi byggde även 
+en enkel NodeJS applikation och kopplade denna till vår SQL server. Denna kod finns under 
+5.1. 
